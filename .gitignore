@@ -2,3 +2,4 @@ yt_ingest_and_chat/.env
 gradio_chat/.env
 /.idea
 mongo_vector_search_manual/.env
+multi_loader_dedoc/.env
