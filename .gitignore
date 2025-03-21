@@ -3,3 +3,4 @@ gradio_chat/.env
 /.idea
 mongo_vector_search_manual/.env
 multi_loader_dedoc/.env
+file_watch_and_chat/.env
